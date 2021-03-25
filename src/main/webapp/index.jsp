@@ -11,6 +11,8 @@
 		<div>회원가입</div>
 	</header>
 	<article>본문 입니다
+		<select>기사1</select>
+		<select>기사2</select>
 	</article>
 	<footer>푸터 입니다
 	</footer>
