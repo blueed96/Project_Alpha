@@ -8,6 +8,7 @@
 </head>
 <body>
 	<header>헤더입니다
+		<div>about</div>
 	</header>
 	<article>본문 입니다
 	</article>
